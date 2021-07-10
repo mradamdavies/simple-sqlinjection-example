@@ -86,4 +86,4 @@ That was a quick and dirty guide to SQL injection. It's a very old technique, no
 
 ## Social
 
-[Twitter](https://twitter.com/mradamdavies) || [Hackersploit Discord](https://discord.gg/hackersploit) || [Buy me a coffee!](https://www.buymeacoffee.com/mradamdavies)
+[Hackersploit Discord](https://discord.gg/hackersploit)
