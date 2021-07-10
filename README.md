@@ -77,7 +77,9 @@ Suffixing `where admin <> ''` means "show me all rows where admin permissions is
 	
 Not all hashes are easy to crack or even valid (it could be salted or use a hidden concatenated value). Most of the users on this site have easy to crack passwords but not the admin
 
-Sometimes the MD5 hash will also work as the password, but not this time!
+Sometimes the MD5 hash will also work as the password, but not always.
+
+Preventing SQL injection attacks is fairly simple. All user data should be sanitized and never assumed to be clean!
 
 ## Thanks
 That was a quick and dirty guide to SQL injection. It's a very old technique, not new, and mostly patched. Hope you enjoyed it, and feel free to let me know what you think...
